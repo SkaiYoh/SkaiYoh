@@ -35,8 +35,10 @@
 <h3 align='center'  >💬  Sometimes I like to write things here...</h4>
 <br>
 <p align='center' align='right'>
-  <a href="https://glitch.com">
-  <img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" /></a>&nbsp;&nbsp;
+ <a href="https://glitch.com">
+  <img height="30" src="GlitchLogo_Color.svg" /></a>&nbsp;&nbsp;
+ <a href="https://todoist.com/">
+  <img height="30" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" /></a>&nbsp;&nbsp;
 </p>
 
 
