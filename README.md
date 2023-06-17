@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I'm Miata gang 🚗
 
 <hr>
-<h3 align='center'> 🔭  I’m currently working with ...</h4>
+<h3 align='center'> 🔭  I’m currently working with...</h4>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <hr>
 
-<h3 align='center'> 🌱  I am currently learning</h4>
+<h3 align='center'> 🌱  I am currently learning...</h4>
 
 <p align='center'>
  <img src="https://img.shields.io/badge/java8%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
