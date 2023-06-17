@@ -2,6 +2,7 @@
 
  ### I am a Developer
  
+<div>
  <img align="right" vertical-align="middle" height="200px" alt="GIF" src="a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif">
  
 - 📽️ I’m currently working on ~~[Super Secret Project]~~ 🤭
@@ -11,6 +12,7 @@
 - 💬 If you have any questions, don't message me directly :smile:
 - 📬 How to reach me: <a href="https://discord.gg/skaiyoh">discord.gg/skaiyoh</a>
 - ⚡ Fun fact: I'm Miata gang 🚗
+</div>
 
 <hr>
 <h3 align='center'> 🔭  I’m currently working with ...</h4>
