@@ -2,7 +2,7 @@
 
  ### I am a Developer
  
- <img align="right" height="inherit" alt="GIF" src="dev.gif" />
+ <img align="right" height="200px" alt="GIF" src="a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif" />
  
 - 📽️ I’m currently working on ~~[Super Secret Project]~~ 🤭
 - 🦆 I’m currently learning Web Development/Design.
