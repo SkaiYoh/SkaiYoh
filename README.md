@@ -1,45 +1,32 @@
 <h2 align='center'>Hey Hey, I'm SkaiYoh!</a> 👋</h2>
 
-<p align="center">
-  <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a Avid learner, tinkerer and educator on Data science, Web developement and alumini from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge, insights of learning with others through Blogging and other source. Some of the technologies I enjoy working with Python, including Data science tools  packages, NodeJS, ReactJS, other JS frameworks and UI/UX.
-  </samp>
-  <br>
+ ### I am a Developer
+ 
+ <img align="right" height="200px" alt="GIF" src="dev.gif" />
+ 
+- 📽️ I’m currently working on ~~[Super Secret Project]~~ 🤭
+- 🦆 I’m currently learning Web Development/Design.
+- 👯 I’m collaborating with other Developers :wink:
+- 🥅 2023 Goals: learn and grow as a person
+- 💬 If you have any questions, don't message me directly :smile:
+- 📬 How to reach me: <a href="https://discord.gg/skaiyoh">discord.gg/skaiyoh</a>
+- ⚡ Fun fact: I'm Miata gang 🚗
   
-</p>
 
 
 
-<h3  align='center'>📬 Find me around the web 🌎 </h3>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=punitkmryh.punitkmryh"></a>
-</p>
-
-
-<p align='center'>
-  <a href="https://pkharsoor.me"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/pkmryh_kata"><img src="https://img.shields.io/badge/HackerRank%20-%23339903.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/punityh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/pkmr"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:punitkmr95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 
 <hr>
-<h3 align='center'> 🔭  I’m currently working and learning with ...</h4>
+<h3 align='center'> 🔭  I’m currently working with ...</h4>
 
-
-<h4 align='center'> Data analystics and Data science and Others</h5>
 <p align='center'>
-  <img src="https://img.shields.io/badge/datascience%20-%23e34f26.svg?&style=for-the-badge&logo=Datascience&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PowerBI%20-%23e34f26.svg?&style=for-the-badge&logo=PowerBI&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tableau%20-%23e34f26.svg?&style=for-the-badge&logo=Tableau&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MachineLearning%20-%23e34f26.svg?&style=for-the-badge&logo=MachineLearning&logoColor=white" />&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
-  
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <hr>
 
 <h3 align='center'> 🌱  I have worked...</h4>
