@@ -10,7 +10,7 @@
 - 👯 I’m collaborating with other Developers :wink:
 - 🥅 2023 Goals: learn and grow as a person
 - 💬 If you have any questions, don't message me directly :smile:
-- 📬 How to reach me: <a href="https://discord.gg/skaiyoh">discord.gg/skaiyoh</a>
+<!-- - 📬 How to reach me: <a href="https://discord.gg/skaiyoh">discord.gg/skaiyoh</a> -->
 - ⚡ Fun fact: I'm Miata gang 🚗
 
 <hr>
