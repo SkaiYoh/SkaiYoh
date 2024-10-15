@@ -10,7 +10,7 @@
 - 👯 I’m collaborating with other Developers :wink:
 - 💬 If you have any questions, don't message me directly :smile:
 <!-- - 📬 How to reach me: <a href="https://discord.gg/skaiyoh">discord.gg/skaiyoh</a> -->
-- ⚡ Fun fact: I'm Miata gang 🚗
+<!-- - ⚡ Fun fact: I'm Miata gang 🚗 -->
 
 <hr>
 <h3 align='center'> 🔭  I’m currently working with...</h4>
