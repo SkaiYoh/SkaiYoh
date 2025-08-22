@@ -2,7 +2,7 @@
 
 ### I am a Developer
 
-<img align="right" alt="GIF" src="assets/animated.gif" width="300">
+<img align="right" alt="GIF" src="assets/GlitchLogo.svg" width="300">
 
 - 📽️ I’m currently working on ~~Super Secret Project~~ 🤭  
 - 🦆 I’m currently learning Web Development & Computer Programming  
