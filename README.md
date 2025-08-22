@@ -3,7 +3,7 @@
  ### I am a Developer
  
 
-<img align="right" height="170px" alt="GIF" src="a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif">
+<img align="right" height="75px" width="100" alt="GIF" src="a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif">
  
 - 📽️ I’m currently working on ~~[Super Secret Project]~~ 🤭
 - 🦆 I’m currently learning Web Developmemnt/Computer Programming.
