@@ -38,7 +38,7 @@
 
 <p align="center">
  <a href="https://glitch.com">
-   <img height="30" src="/assets/GlitchLogo.svg" />
+   <img height="30" src="assets/GlitchLogo.svg" />
  </a>&nbsp;&nbsp;
  <a href="https://todoist.com/">
    <img height="30" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" />
