@@ -2,7 +2,7 @@
 
 ### I am a Developer
 
-<img align="right" alt="GIF" src="a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif" width="300">
+<img align="right" alt="GIF" src="/assets/animated.gif" width="300">
 
 - 📽️ I’m currently working on ~~Super Secret Project~~ 🤭  
 - 🦆 I’m currently learning Web Development & Computer Programming  
@@ -38,12 +38,12 @@
 
 <p align="center">
  <a href="https://glitch.com">
-   <img height="30" src="GlitchLogo_Color.svg" />
+   <img height="30" src="/assets/GlitchLogo.svg" />
  </a>&nbsp;&nbsp;
  <a href="https://todoist.com/">
    <img height="30" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" />
  </a>&nbsp;&nbsp;
  <a href="https://www.figma.com">
-   <img height="30" src="figma-seeklogo.com.svg" />
+   <img height="30" src="/assets/figma-seeklogo.svg" />
  </a>&nbsp;&nbsp;
 </p>
