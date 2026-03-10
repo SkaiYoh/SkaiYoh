@@ -52,15 +52,6 @@
   <a href="https://obsidian.md/">
     <img height="30" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   </a>
-  &nbsp;
-  <a href="https://glitch.com">
-    <img height="30" src="assets/GlitchLogo.svg" alt="Glitch" />
-  </a>
-  &nbsp;
-  <a href="https://www.figma.com">
-    <img height="30" src="assets/figma-seeklogo.svg" alt="Figma" />
-  </a>
-</div>
 
 ---
 
