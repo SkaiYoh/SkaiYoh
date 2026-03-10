@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SkaiYoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hey+Hey%2C+I'm+SkaiYoh!+%F0%9F%91%8B;Web+Dev+%26+Design+Enthusiast;Hardware+Hacker+%7C+AI+Curious;Always+Building+Something+New" alt="Typing SVG" />
-</div>
-
 <br />
 
 ---
@@ -67,13 +63,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SkaiYoh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaiYoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SkaiYoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
