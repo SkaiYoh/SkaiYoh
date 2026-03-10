@@ -1,46 +1,86 @@
-<h2 align="center">Hey Hey, I'm SkaiYoh! 👋</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SkaiYoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=18" width="100%" />
+</div>
 
-### 👨‍💻 About Me
-- 📽️ Currently working on **~~Super Secret Project~~** 🤭  
-- 🦆 Learning more about **Web Development & Computer Programming**  
-- 👯 Collaborating with awesome developers 😉  
-- 💬 Feel free to check out my projects (but please don’t DM me directly 😅)  
-<!-- - 📬 Contact: <a href="https://discord.gg/skaiyoh">discord.gg/skaiyoh</a> -->
-<!-- - ⚡ Fun fact: I'm Miata gang 🚗 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hey+Hey%2C+I'm+SkaiYoh!+%F0%9F%91%8B;Web+Dev+%26+Design+Enthusiast;Hardware+Hacker+%7C+AI+Curious;Always+Building+Something+New" alt="Typing SVG" />
+</div>
 
----
-
-<h3 align="center">🔭 Tech I’m Currently Working With</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python3-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br />
 
 ---
 
-<h3 align="center">🌱 Currently Learning</h3>
+### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+- 🎯 Dreaming of becoming a **Software Engineer** — one project at a time
+- 🌐 Passionate about **web development & design** — love making things look and work great
+- 🤖 Fascinated by **AI & machine learning** and where it's all heading
+- 🔩 Enjoy diving into **hardware-level projects** — the closer to the metal, the better
+- 🗂️ Always juggling **multiple projects** across different domains
+- 💬 Feel free to explore my repos!
 
 ---
 
-<h3 align="center">💬 Tools & Platforms I Use</h3>
+### 💪 Languages I Know Well
 
-<p align="center">
- <a href="https://glitch.com">
-   <img height="30" src="assets/GlitchLogo.svg" alt="Glitch" />
- </a>
- <a href="https://todoist.com/">
-   <img height="30" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" alt="Todoist" />
- </a>
- <a href="https://www.figma.com">
-   <img height="30" src="assets/figma-seeklogo.svg" alt="Figma" />
- </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java&theme=dark" alt="Fluent Languages" />
+</div>
+
+---
+
+### 🔭 Currently Working With
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" alt="Working With" />
+</div>
+
+---
+
+### 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react&theme=dark" alt="Currently Learning" />
+</div>
+
+---
+
+### 🛠️ Tools & Environment
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea,neovim,figma,git&theme=dark" alt="Tools" />
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://obsidian.md/">
+    <img height="30" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  </a>
+  &nbsp;
+  <a href="https://glitch.com">
+    <img height="30" src="assets/GlitchLogo.svg" alt="Glitch" />
+  </a>
+  &nbsp;
+  <a href="https://www.figma.com">
+    <img height="30" src="assets/figma-seeklogo.svg" alt="Figma" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SkaiYoh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaiYoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SkaiYoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
