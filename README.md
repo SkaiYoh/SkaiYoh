@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - 🎯 Dreaming of becoming a **Software Engineer** — one project at a time
 - 🌐 Passionate about **web development & design** — love making things look and work great
@@ -17,7 +17,7 @@
 
 ---
 
-### 💪 Languages I Know Well
+### Languages I Know Well
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java&theme=dark" alt="Fluent Languages" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🔭 Currently Working With
+### Currently Working With
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" alt="Working With" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react&theme=dark" alt="Currently Learning" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠️ Tools & Environment
+### Tools & Environment
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea,neovim,figma,git&theme=dark" alt="Tools" />
