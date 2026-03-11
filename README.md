@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SkaiYoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SkaiYoh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 <br />
@@ -8,12 +8,11 @@
 
 ### About Me
 
-- 🎯 Dreaming of becoming a **Software Engineer** — one project at a time
-- 🌐 Passionate about **web development & design** — love making things look and work great
-- 🤖 Fascinated by **AI & machine learning** and where it's all heading
-- 🔩 Enjoy diving into **hardware-level projects** — the closer to the metal, the better
-- 🗂️ Always juggling **multiple projects** across different domains
-- 💬 Feel free to explore my repos!
+- Passionate about **web development & design** — love making things look and work great
+- Fascinated by **AI & machine learning** and where it's all heading
+- Enjoy diving into **hardware-level projects** — the closer to the metal, the better
+- Always juggling **multiple projects** across different domains
+- Feel free to explore my repos!
 
 ---
 
