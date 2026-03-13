@@ -10,8 +10,8 @@
 
 - Passionate about **web development & design** — love making things look and work great
 - Fascinated by **AI & machine learning** and where it's all heading
-- Enjoy diving into **hardware-level projects** — the closer to the metal, the better
-- Always juggling **multiple projects** across different domains
+- Enjoy diving into **hardware-level projects**
+- Always juggling **multiple projects**
 - Feel free to explore my repos!
 
 ---
