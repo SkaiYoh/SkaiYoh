@@ -8,9 +8,10 @@
 
 ### About Me
 
-- Passionate about **web development & design** — love making things look and work great
+- I love making things look good and work exceptionally
+- Passionate about **web development & design**
 - Fascinated by **AI & machine learning** and where it's all heading
-- Enjoy diving into **hardware-level projects**
+- Really enjoy **hardware-level projects**
 - Always juggling **multiple projects**
 - Feel free to explore my repos!
 
