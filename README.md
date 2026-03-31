@@ -7,4 +7,6 @@ Computer Science student passionate about building clean, practical, and innovat
 - Hardware & embedded projects  
 - Always building something new  
 
+📄 Resume: https://github.com/skaiyoh/resume/blob/main/Nathan_s_Resume.pdf
+
 Feel free to explore my repositories 🚀
