@@ -1,6 +1,6 @@
 # Nathan Davis
 
-Computer Science student passionate about building clean, practical, and innovative projects.
+Computer Science student building clean, practical, and innovative projects.
 
 - Web development & design  
 - AI & machine learning  
