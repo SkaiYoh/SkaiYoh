@@ -8,5 +8,3 @@ Computer Science student building clean, practical, and innovative projects.
 - Always building something new  
 
 Resume: https://github.com/skaiyoh/resume
-
-Feel free to explore my repositories 🚀
