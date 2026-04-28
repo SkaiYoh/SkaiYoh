@@ -1,4 +1,4 @@
-# Nathan Davis | skaiyoh
+# nathan | skaiyoh
 
 Computer Science student building clean, practical, and innovative projects.
 
